@@ -1,0 +1,3 @@
+Existe:False
+Posição:-1
+Milisegundos:1549670478.2542646
